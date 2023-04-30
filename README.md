@@ -9,3 +9,6 @@ If all the todosList is completed, a popup message will come as "You completed a
 
 
 Further, we can also add new todo to the todoslist by taking input from the user with the help of input element and adding that to the todosList we can achieve that.
+
+![image](https://user-images.githubusercontent.com/119395830/235365368-10283fdd-ecbb-43ab-8c24-9c25d4b29374.png)
+![image](https://user-images.githubusercontent.com/119395830/235365383-a48e87df-c35f-45ba-9769-2272f8ec943d.png)
